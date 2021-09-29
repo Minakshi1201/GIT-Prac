@@ -1,1 +1,1 @@
-# GIT-Prac
+# GIT-Prac for GIT command
